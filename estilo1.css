@@ -1,0 +1,16 @@
+body{
+    /* background-color: rgba(175, 171, 171, 0.815); */
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav{
+    background-color: rgba(42, 91, 196, 0.822);
+    color: white;
+    font-size: 0.9rem;
+}
+.contacto{
+    float: left;
+}
+.acceder{
+    float: right;
+}
